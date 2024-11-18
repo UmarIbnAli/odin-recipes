@@ -1,1 +1,2 @@
 # odin-recipes
+I am doing this as part of The ODIN Project. I have learnt to use Ubuntu as a VM in my laptop, learnt a few commands. I have installed git and am trying to work at it. This is the first project of this course. Bismillah!
